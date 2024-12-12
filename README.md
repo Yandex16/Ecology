@@ -1,5 +1,7 @@
 # Что тут происходит
 ### Update
+В папке `nans_substitution_regression_modeling` два файла с гениальнийшим кодом Дани. Используйте `analysing_environmental_without_nan_values.csv` для дальнейшего моделирования.
+
 В папке `hypothesis_testing` есть два файла:
 1. `hypothesis_testing.ipynb`. Тут проверка 4 выданных гипотез + 3 дополнительные. Здесь есть графики, объяснения и выводы.
 2. `hypothesis_testing_run.ipynb`. Только основные функции, которые будут используются в `main.ipynb`. Они просто выводят основной вывод гипотез.
